@@ -1,0 +1,12 @@
+{
+  "name": "metadata-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^7.1.7"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
